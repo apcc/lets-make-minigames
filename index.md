@@ -3,3 +3,5 @@
 writer: [ibuki2003](https://github.com/ibuki2003), [su8ru](https://github.com/su8ru), [takeno-hito](https://github.com/takeno-hito)
 
 ## もくじ
+
+2. [Siv3D入門](./2/)
